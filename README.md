@@ -13,4 +13,12 @@
 - Uncomment the first line of code in cell 4 (data = pd.read_csv...) of the notebook and comment cell 5 .
 - Also uncomment all the lines of the Section named "Results of SubTask 2" and then run the notebook.
 
+## Results obtained <br/>
+
+**Sub-Task 1 (Single Word)**
+![results_single](https://github.com/Gkoushik/CS60075-Team-17-Task-1/tree/main/results/results_single_word.png)<br/>
+
+
+**Sub-Task 2 (Multi Word)**
+![results_multi](https://github.com/Gkoushik/CS60075-Team-17-Task-1/tree/main/results/results_multi_word.png)<br/>
 
