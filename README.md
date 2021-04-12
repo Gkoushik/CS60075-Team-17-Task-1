@@ -16,9 +16,9 @@
 ## Results obtained <br/>
 
 **Sub-Task 1 (Single Word)**
-![results_single](https://github.com/Gkoushik/CS60075-Team-17-Task-1/tree/main/results/results_single_word.png)<br/>
+![results_single_word](https://github.com/Gkoushik/CS60075-Team-17-Task-1/tree/main/results/results_single_word.png) <br/>
 
 
 **Sub-Task 2 (Multi Word)**
-![results_multi](https://github.com/Gkoushik/CS60075-Team-17-Task-1/tree/main/results/results_multi_word.png)<br/>
+![results_multi_word](https://github.com/Gkoushik/CS60075-Team-17-Task-1/tree/main/results/results_multi_word.png) <br/>
 
