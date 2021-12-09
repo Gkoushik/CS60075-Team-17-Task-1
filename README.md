@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bSUxFv38Lwsj2Q50ZwPIXZDPCkBN8ilW?usp=sharing)
 
 ## Instructions to Run
-- The code can be directly run from the colab link provided above. To execute the same in  a local machine install all the packages listed in requirements.txt using " pip install -r requirements.txt"  and run the notebook.
+- The code can be directly run from the colab link provided above. To execute the same in  a local machine install all the packages listed in requirements.txt using " pip install -r requirements.txt"  and run the notebook to view the results.
 
 **To obtain Sub-Task 1 results:**
 - Comment the code in cell 4 of the notebook and uncomment the first line of cell 5 (data = pd.read_csv...).
